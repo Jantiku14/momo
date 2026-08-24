@@ -1,0 +1,6 @@
+{
+  "name": "Everlasting Floral Bouquet for Ladybug",
+  "description": "A luxurious 3D florist-crafted virtual floral bouquet designed for Ladybug, featuring customizable roses, lilies, peonies, baby's breath, wrapping paper styles, and an everlasting romantic dedication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
